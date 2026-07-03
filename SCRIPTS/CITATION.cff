@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "Software code for: Causal and uncertainty-aware digital-twin framework for ultra-low-noise geoscientific inertial sensors"
+authors:
+  - family-names: "D'Alessandro"
+    given-names: "Antonino"
+    affiliation: "Istituto Nazionale di Geofisica e Vulcanologia, Osservatorio Nazionale Terremoti, Rome, Italy"
+version: "1.0.0"
+date-released: "2026-07-03"
+url: "https://github.com/YOUR-GITHUB-USERNAME/causal-digital-twin-inertial-sensors"
+license: "MIT"
